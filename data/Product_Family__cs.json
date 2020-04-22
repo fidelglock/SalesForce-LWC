@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "DynamoRef"
+            },
+            "Name": "Woodland",
+            "Description__c": "Reliability. The best choice for hobbyists and enthusiasts.",
+            "Category__c": "Boot"
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "FuseRef"
+            },
+            "Name": "Adidas",
+            "Description__c": "All day i dream about sports.",
+            "Category__c": "Running"
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "ElectraRef"
+            },
+            "Name": "Puma",
+            "Description__c": "Dont stop at anything.",
+            "Category__c": "Running"
+        },
+        {
+            "attributes": {
+                "type": "Product_Family__c",
+                "referenceId": "VoltRef"
+            },
+            "Name": "Nike",
+            "Description__c": "Just Do it.",
+            "Category__c": "Running"
+        }
+    ]
+}

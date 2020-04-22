@@ -1,0 +1,212 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef1"
+            },
+            "Name": "ADIDAS X1",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 2500,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/7ae26fca4b794fb086dba9c300cf5797_9366/U_Path_Run_Shoes_Black_G27636_04_standard.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef2"
+            },
+            "Name": "ADIDAS X2",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 2600,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/7ed0855435194229a525aad6009a0497_9366/Superstar_Shoes_White_EG4958_01_standard.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef3"
+            },
+            "Name": "ADIDAS X3",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 2700,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://assets.adidas.com/images/w_600,f_auto,q_auto:sensitive,fl_lossy/8cb978de57934d0b9227aaea00df82c6_9366/Ultraboost_20_Shoes_Black_EG1341_01_standard.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef4"
+            },
+            "Name": "ADIDAS X4",
+            "Product_Family__c": "@FuseRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 2800,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://www.shoecarnival.com/dw/image/v2/BBSZ_PRD/on/demandware.static/-/Sites-scvl-master-catalog/default/dw63f930e5/101397_199256_1.jpg?sw=1694&sh=1999&sm=fit"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef5"
+            },
+            "Name": "WOODLAND X1",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 7000,
+            "Category__c": "Boot",
+            "Material__c": "Leather",
+            "Picture_URL__c": "https://images-na.ssl-images-amazon.com/images/I/71pTqffvbCL._UX500_.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef6"
+            },
+            "Name": "WOODLAND X2",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 7200,
+            "Category__c": "Boot",
+            "Material__c": "Leather",
+            "Picture_URL__c": "https://5.imimg.com/data5/XJ/BB/MY-63879864/woodland-shoes-500x500.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef7"
+            },
+            "Name": "WOODLAND X3",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 7400,
+            "Category__c": "Boot",
+            "Material__c": "Leather",
+            "Picture_URL__c": "https://images-na.ssl-images-amazon.com/images/I/81f9Vk5IQLL._UL1500_.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef8"
+            },
+            "Name": "WOODLAND X4",
+            "Product_Family__c": "@DynamoRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 7800,
+            "Category__c": "Boot",
+            "Material__c": "Leather",
+            "Picture_URL__c": "https://cdn.shopify.com/s/files/1/1407/1106/products/eight-eyelet-woodland-boot.jpg?v=1510140560"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef9"
+            },
+            "Name": "PUMA X1",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 4000,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://dks.scene7.com/is/image/dkscdn/18PUMWDFYMDCRNVYPFTW_Black_Metallic_Gold_is?wid=685&fmt=jpg "
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef10"
+            },
+            "Name": "PUMA X2",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 4300,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/192638/01/sv01/fnd/PNA/fmt/png/CELL-Phase-Mens-Training-Shoes"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef11"
+            },
+            "Name": "PUMA X3",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 4600,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://cdn02.plentymarkets.com/gesikq7l45vs/item/images/180171/middle/192581-01-1-PUMA-Schuhe-robuste-Herren-Outdoor-Laufschuhe-Axelion-Rip-Schwarz.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef12"
+            },
+            "Name": "PUMA X4",
+            "Product_Family__c": "@ElectraRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 4900,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://images.puma.net/images/306663/01/sv01/fnd/AUS/w/1000/h/1000/bg/255,255,255"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef13"
+            },
+            "Name": "NIKE X1",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 1200,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://www.shoecarnival.com/dw/image/v2/BBSZ_PRD/on/demandware.static/-/Sites-scvl-master-catalog/default/dw28895317/100579_197258_1.jpg?sw=1694&sh=1999&sm=fit"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef14"
+            },
+            "Name": "NIKE X2",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 1400,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/i2uyvwsvaoqgubkghwos/air-huarache-mens-shoe-eoToq9X2.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef15"
+            },
+            "Name": "NIKE X3",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 1800,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/lus8o0zccxhbxp30g43d/kyrie-6-basketball-shoe-KQmCXH.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Product__c",
+                "referenceId": "Product__cRef16"
+            },
+            "Name": "NIKE X4",
+            "Product_Family__c": "@VoltRef",
+            "Description__c": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner ",
+            "MSRP__c": 1900,
+            "Category__c": "Running",
+            "Material__c": "Synthetic",
+            "Picture_URL__c": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/u1pc2awdr0feaemheohp/zoom-pegasus-turbo-shield-running-shoe-7PchpQ.jpg"
+        }
+    ]
+}
